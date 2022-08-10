@@ -10,3 +10,5 @@ Display - https://hyperskill.org/learn/step/21211 <br/>
 Unordered list and types - https://hyperskill.org/learn/step/21181  <br/>
 
 Contextual selectors - https://hyperskill.org/learn/step/21521 <br/>
+
+Array checking methods - https://hyperskill.org/learn/step/21570
