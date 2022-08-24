@@ -11,4 +11,7 @@ Unordered list and types - https://hyperskill.org/learn/step/21181  <br/>
 
 Contextual selectors - https://hyperskill.org/learn/step/21521 <br/>
 
-Array checking methods - https://hyperskill.org/learn/step/21570
+Array checking methods - https://hyperskill.org/learn/step/21570 <br/>
+
+The HTML SEO optimization - https://hyperskill.org/learn/step/21889 <br/>
+
