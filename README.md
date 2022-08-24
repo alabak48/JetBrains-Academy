@@ -15,3 +15,8 @@ Array checking methods - https://hyperskill.org/learn/step/21570 <br/>
 
 The HTML SEO optimization - https://hyperskill.org/learn/step/21889 <br/>
 
+The HTML Canvas Graphics - https://hyperskill.org/learn/step/21889 <br/>
+
+
+
+
