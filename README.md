@@ -1,4 +1,4 @@
-# JetBrains - Frontend Developer
+# JetBrains - Frontend Core
 
 
 Codecs and Containers - https://hyperskill.org/learn/step/18279 <br/>
