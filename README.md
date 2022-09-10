@@ -19,6 +19,8 @@ The HTML Canvas Graphics - https://hyperskill.org/learn/step/21889 <br/>
 
 The HTML SVG - https://hyperskill.org/learn/step/21882 <br/>
 
+Content Accessibility - https://hyperskill.org/learn/step/22249 <br/>
+
 
 
 
