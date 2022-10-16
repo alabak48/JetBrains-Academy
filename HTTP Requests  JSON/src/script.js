@@ -20,9 +20,9 @@ function displayTeachers() {
       }
       
       // Put the data into a variable and format with HTML tags
-      let output = "<h1>Artists</h1>";
+      let output = "<h1>Teachers</h1>";
       output += "<ul>";    
-      C
+
       // Loop through the artists
       for (let i in data.teachers) {
           output += "<li>" + data.teachers[i].teachersname + " (Born: " + data.teachers[i].born + ")</li>"; 
