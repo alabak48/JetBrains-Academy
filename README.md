@@ -23,6 +23,10 @@ Content Accessibility - https://hyperskill.org/learn/step/22249 <br/>
 
 Design Accessibility - https://hyperskill.org/learn/step/22172 <br/>
 
+XMLSerializer & DOMParser - https://hyperskill.org/learn/step/23111 <br/>
+
+XMLHttpRequest - https://hyperskill.org/learn/step/23100 <br/>
+
 
 
 
