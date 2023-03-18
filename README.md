@@ -27,6 +27,10 @@ XMLSerializer & DOMParser - https://hyperskill.org/learn/step/23111 <br/>
 
 XMLHttpRequest - https://hyperskill.org/learn/step/23100 <br/>
 
+Grid Property - https://hyperskill.org/learn/step/26001 <br/>
 
+The CSS Cursor - https://hyperskill.org/learn/step/26012 <br/>
 
+Advanced features | CSS function min(), max(), clamp() - https://hyperskill.org/learn/step/25652 <br/>
 
+scroll-snap - https://hyperskill.org/learn/step/25663 <br/>
