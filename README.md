@@ -34,3 +34,10 @@ The CSS Cursor - https://hyperskill.org/learn/step/26012 <br/>
 Advanced features | CSS function min(), max(), clamp() - https://hyperskill.org/learn/step/25652 <br/>
 
 scroll-snap - https://hyperskill.org/learn/step/25663 <br/>
+
+Advanced features | object-fit and object-position - https://hyperskill.org/learn/step/27961 <br/>
+
+CSS grid-gap property - https://hyperskill.org/learn/step/27063 <br/>
+
+Grid rows and columns - https://hyperskill.org/learn/step/27950 <br/>
+
