@@ -41,3 +41,5 @@ CSS grid-gap property - https://hyperskill.org/learn/step/27063 <br/>
 
 Grid rows and columns - https://hyperskill.org/learn/step/27950 <br/>
 
+Explicit and Implicit Grid - https://hyperskill.org/learn/step/28703 <br/>
+
